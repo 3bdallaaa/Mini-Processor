@@ -1,0 +1,4 @@
+vhdl work "Pack.vhd"
+vhdl work "MUX4X1_v8.vhd"
+vhdl work "Encoder4X2.vhd"
+vhdl work "ALU.vhd"
